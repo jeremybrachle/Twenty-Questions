@@ -5,3 +5,4 @@
 bin/twentyquestions/GameNode.class
 bin/twentyquestions/GameTree.class
 bin/twentyquestions/TwentyQuestions.class
+.DS_Store
