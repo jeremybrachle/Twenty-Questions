@@ -1,0 +1,15 @@
+Question|Are they human?
+Question|Are they a Hogwarts Professor?
+Answer|Snape
+Question|Are they in Gryffindor?
+Question|Are they female?
+Answer|Lavender Brown
+Question|Are they a Weasley?
+Question|Are they missing an ear?
+Answer|Ron Weasley
+Answer|George Weasley
+Answer|Harry Potter
+Answer|Draco Malfoy
+Question|Did Hagrid raise them?
+Answer|Norbert the Dragon
+Answer|Dobby the House Elf
